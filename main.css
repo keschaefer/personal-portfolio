@@ -1,0 +1,21 @@
+body {
+    font-family: 'EB Garamond', serif;
+    color: rgb(39, 39, 26)
+    background-color: rgb(245, 247, 226);
+    background-image: url("https://www.transparenttextures.com/patterns/billie-holiday.png");
+   
+}
+
+header {
+    bottom-border: 
+    padding: 5%;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+}
+
+.about {
+    padding: 25%
+}
