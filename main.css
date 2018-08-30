@@ -1,6 +1,7 @@
 body {
     background-color: #181f00;
     background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+    height: 100%;
 }    
 
 .main {
@@ -8,6 +9,7 @@ body {
     color: rgb(39, 39, 26);
     background-color: rgb(245, 247, 226);
     background-image: url("https://www.transparenttextures.com/patterns/billie-holiday.png");
+    height: 100%;
 }
 
 .title {
@@ -89,7 +91,6 @@ body {
 footer {
     display: flex;
     justify-content: center;
-    margin-bottom: 250px;
 }
 
 footer .github, footer .insta {
