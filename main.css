@@ -80,3 +80,17 @@
     height: 250px;
     width: 250px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 250px;
+}
+
+footer .github, footer .insta {
+    margin: 10px;
+}
+
+a:visited { 
+    color:black;
+}
