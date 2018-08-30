@@ -31,7 +31,6 @@
     align-items: center;
     text-align: center;
     font-size: 20px;
-
 }
 
 .projects img {
@@ -53,23 +52,31 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
+    text-align: center;
 }
 
-.activities {
-    
-    text-align: center;
+.hobbies-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 5%;
+    padding-top: 10%;
+    font-size: 25px;
+}
 
+.activities-1, .activities-2{   
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
 }
 
 .activities-1 img {
-    height: 100%;
-    width: 100%;
-    padding: 2%;
+    height: 250px;
+    width: 250px;
 }
 
-
 .activities-2 img {
-    height: 100%;
-    width: 100%;
-    padding: 2%;
+    height: 250px;
+    width: 250px;
 }
